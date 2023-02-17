@@ -6804,7 +6804,7 @@ ul.clients li .client_wrapper, ul.clients li .client_wrapper img {
 	margin: 0!important
 }
 .portfolio_slider ul li .image_frame {
-	border: 0;
+	/* border: 0; */
 	margin-bottom: 0
 }
 .portfolio_slider .slider_nav {
@@ -19247,7 +19247,7 @@ body:not(.with_aside) .portfolio_group.list .portfolio-item .portfolio-item-fw-w
 }
 #Intro .intro-inner {
 	position: relative;
-	padding: 250px 10%
+	padding: 160px 10%
 }
 #Intro .intro-title {
 	margin-bottom: 20px;
