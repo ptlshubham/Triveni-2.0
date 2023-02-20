@@ -7454,3 +7454,74 @@ html, body {
 		background-attachment: scroll!important
 	}
 }
+
+/* ------------------------------------------------
+30. CONTACT
+------------------------------------------------ */
+
+.dlab-social-icon.dlab-social-icon-lg li a {
+    color: #ffffff;
+    font-size: 14px;
+    height: 35px;
+    line-height: 34px;
+    padding: 0;
+    width: 35px;
+}
+
+.dlab-social-icon-lg.dlab-social-icon li {
+    display: inline-block;
+    font-size: 12px;
+    padding: 0;
+}
+
+.dlab-social-icon-lg.dlab-social-icon.border li a {
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.contact-style-1 input {
+    height: 50px;
+}
+
+.contact-style-1 .site-button {
+    height: 50px;
+    width: 100%;
+}
+
+.contact-style-1 .form-control {
+    padding: 10px 20px;
+}
+
+.contact-style-1 .form-control:focus,
+.contact-style-1 .form-control:hover {
+    border-color: #c0c0c0;
+}
+
+.contact-style-1 h2 {
+    margin-top: 0;
+}
+
+.contact-style-1 .border-1 {
+    border: 1px solid #eee;
+}
+
+.contact-style-1 .dlab-social-icon-lg {
+    border-top: 1px solid #eeeeee;
+    padding-top: 20px;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+}
+
+.contact-style-1 .dlab-social-icon-lg a {
+    text-align: center;
+}
+
+.contact-style-1 .dlab-social-icon-lg li a:hover {
+    background: #fff;
+    color: #000;
+    border: 1px solid #eee;
+}
+
+.contact-style-1 .form-group {
+    margin-bottom: 25px;
+}
