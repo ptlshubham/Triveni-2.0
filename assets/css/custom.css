@@ -1,0 +1,29 @@
+.image-viewer {
+    position: relative;
+  }
+  
+  .image-nav {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .prev-btn,
+  .next-btn {
+    font-size: 2rem;
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .prev-btn {
+    float: left;
+  }
+  
+  .next-btn {
+    float: right;
+  }
+  
