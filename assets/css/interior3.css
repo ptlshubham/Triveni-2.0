@@ -1685,13 +1685,13 @@ big, .big {
 	font-style: italic;
 }
 h1, .text-logo #logo {
-	font-size: 60px;
-	line-height: 60px;
+	font-size: 50px;
+	line-height: 70px;
 	font-weight: 700;
 	letter-spacing: 0px;
 }
 h2 {
-	font-size: 60px;
+	font-size: 50px;
 	line-height: 70px;
 	font-weight: 700;
 	letter-spacing: 0px;
